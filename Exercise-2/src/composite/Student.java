@@ -1,0 +1,19 @@
+package composite;
+
+
+public class Student implements ClassroomComponent {
+    private final String id;
+
+    public Student(String id) {
+        this.id = id;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    @Override
+    public void showDetails() {
+        System.out.println("  Student: " + id);
+    }
+}
