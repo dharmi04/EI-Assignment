@@ -16,7 +16,7 @@ This project demonstrates **OOP best practices**, **SOLID principles**, and **st
 
 ---
 
-## 💡 Features
+## Features
 
 1. **Classroom Management**
    - Add new classrooms  
@@ -52,9 +52,7 @@ This project demonstrates **OOP best practices**, **SOLID principles**, and **st
 ---
 
 
----
-
-## 🛠️ Design Patterns Used
+##  Design Patterns Used
 
 ### **1. Composite Pattern**
 - `Classroom` is the composite.  
@@ -70,7 +68,7 @@ This project demonstrates **OOP best practices**, **SOLID principles**, and **st
 
 ---
 
-## ⚙️ Setup & Run
+##  Setup & Run
 
 1. Navigate to the `src` folder:
 ```bash
